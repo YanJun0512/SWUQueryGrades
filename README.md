@@ -1,5 +1,5 @@
 # SWUQueryGrades
-python+selenium从西南大学教务处获取个人成绩。
+python+selenium从西南大学教务系统获取个人成绩。
 ***
 环境
 ```
