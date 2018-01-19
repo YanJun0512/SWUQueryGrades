@@ -2,7 +2,6 @@ import requests
 from selenium import webdriver
 from multiprocessing import Process
 import time
-import re
 import win32con
 import win32api
 
